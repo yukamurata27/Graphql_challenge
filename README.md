@@ -30,6 +30,6 @@ This program allows a user to get data from an API.
 #### Usage
 ```
 query {
-  getOfferMake (offerId: "c10")
+  getOfferMake (offerId: "<YOUR_OFFER_ID>")
 }
 ```
